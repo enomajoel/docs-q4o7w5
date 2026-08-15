@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-bcyf7s.antam89.site/sitemap.xml
